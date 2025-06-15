@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224126544540",
+    "project_id": "semeador-15361",
+    "storage_bucket": "semeador-15361.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224126544540:android:39183f669b1b301c0a1b59",
+        "android_client_info": {
+          "package_name": "br.com.semeador.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224126544540-mm4jh0aa4j91v05u50bf7oeoktvid4u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.semeador.app",
+            "certificate_hash": "c9de109112ef66973f25befd9fc5a8119177e831"
+          }
+        },
+        {
+          "client_id": "224126544540-nv558jg8un6dclqho114g74k12t3uufk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpRz44h9LeLjzJ2B-HjwkNz4NeboK0pbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224126544540-nv558jg8un6dclqho114g74k12t3uufk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

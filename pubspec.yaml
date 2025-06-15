@@ -1,0 +1,54 @@
+name: semeador_novo
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  # Firebase e serviços
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+  firebase_storage: ^11.7.5
+  image_picker: ^1.1.1
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  uuid: ^4.4.0
+  google_sign_in: ^6.1.5
+
+
+  # Pacotes adicionais usados no app
+  intl: ^0.19.0
+  google_fonts: ^6.1.0
+  table_calendar: ^3.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/journey/seeds_icon.svg
+    - assets/journey/landscapes.svg
+    - assets/journey/badge.svg
+    - assets/journey/tracks_illustration.svg
+    - assets/journey/trails_illustration.svg
+    - assets/journey/inspiration_sample.jpg
+    - assets/user_placeholder.png
+    - assets/icon/semeador_logo.png
+    - assets/images/google_logo.png
+    - assets/frames/
+    - assets/icons/
+    - assets/images/fundo_jesus_semeador.jpg
+    - assets/icons/avatar_usuario_topo.png
+    - assets/icons/avatar_usuario_card.png
+    - assets/icons/semente_plus_marrom.png
